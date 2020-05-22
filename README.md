@@ -20,6 +20,9 @@ This project was created for the GAxDataDog Hackathon in May 2020 by team Surviv
 # Tasks/Projects/Events/General Cool Stuff to do:
 <img width="1231" alt="Screen Shot 2020-05-21 at 11 23 51 PM" src="https://user-images.githubusercontent.com/27389714/82628177-29755880-9bba-11ea-80fc-69cf6ab12bdd.png">
 
+# Global User Activity Feed
+<img width="1437" alt="Screen Shot 2020-05-22 at 1 40 14 AM" src="https://user-images.githubusercontent.com/27389714/82635006-35b6e100-9bcd-11ea-84cf-0483f30e0863.png">
+
 Technologies used (MERN stack + more!):
 
 # Front-End:
@@ -52,6 +55,6 @@ Technologies used (MERN stack + more!):
 - Implement Trello-like taskboard on Homepage
 - Flesh out teams page with actual users, make profiles clickable
 - Port everything to Gatsby for half the runtime of create-react-app
-- Implement Firebase for seamless authentication (current setup is a bit janky with terrible UI, but works) 
+- Implement Firebase for seamless authentication (current setup is a bit janky with terrible UI, but works)
 
 ![bark1](https://user-images.githubusercontent.com/27389714/82627460-748e6c00-9bb8-11ea-8e5b-d9d5a7f6783d.png)
