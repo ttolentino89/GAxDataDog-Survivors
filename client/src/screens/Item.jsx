@@ -3,6 +3,7 @@ import { Link, Redirect } from 'react-router-dom'
 import Layout from '../components/shared/Layout'
 import Fade from 'react-reveal/Fade'
 import { getItemById, deleteItem } from '../services/items'
+import staff from './staff.jpg'
 
 class Item extends Component {
     constructor(props) {
@@ -55,6 +56,7 @@ class Item extends Component {
                         <span className="back">Back</span>
                     </Link>
                     <h4>{item.title}</h4>
+                    <img src={staff} className="event" />
                     <p>Link: {item.link}</p>
                     <div className="buttons">
                         <button className="danger" onClick={this.destroy}>
