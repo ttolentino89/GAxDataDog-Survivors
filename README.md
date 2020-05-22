@@ -20,6 +20,9 @@ This project was created for the GAxDataDog Hackathon in May 2020 by team Surviv
 # Tasks/Projects/Events/General Cool Stuff to do:
 <img width="1231" alt="Screen Shot 2020-05-21 at 11 23 51 PM" src="https://user-images.githubusercontent.com/27389714/82628177-29755880-9bba-11ea-80fc-69cf6ab12bdd.png">
 
+# Task Detail Page + Functions
+<img width="1435" alt="Screen Shot 2020-05-22 at 12 36 23 PM" src="https://user-images.githubusercontent.com/27389714/82689750-fc13c380-9c28-11ea-85a9-f12385e1e19b.png">
+
 # Global User Activity Feed
 <img width="1437" alt="Screen Shot 2020-05-22 at 1 40 14 AM" src="https://user-images.githubusercontent.com/27389714/82635006-35b6e100-9bcd-11ea-84cf-0483f30e0863.png">
 
