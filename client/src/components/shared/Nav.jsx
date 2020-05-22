@@ -10,7 +10,7 @@ const Nav = () => (
       <img src={ex} className="prof"/>
         <NavLink to='/items'>Tasks</NavLink>
         <NavLink to='/create'>Create Task</NavLink>
-        <NavLink to='/users'>Team Activity</NavLink>
+        <NavLink to='/users'>Global Feed</NavLink>
         <NavLink to='/users'>Find Teammates</NavLink>
         <br /><br />
       <img src={dms} className="dms"/>
