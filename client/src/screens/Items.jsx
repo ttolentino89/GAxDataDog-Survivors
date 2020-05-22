@@ -49,7 +49,7 @@ export default function Items(props) {
                 <p>You're almost there!</p>
                 <p>For added security, please sign in again.</p>
                 <p>Joining another pack? Sign up for a new account!</p>
-                <p>In the meantime, here are some examples of cool upcoming tasks and events:</p>
+                <p>In the meantime, here's a preview of some cool upcoming tasks and events:</p>
                 </div>
                 <div className="main">
                     {!items ? <h3>No cool things to do found at this time.</h3> : null}
