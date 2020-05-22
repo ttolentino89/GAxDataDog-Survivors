@@ -46,5 +46,11 @@ Technologies used (MERN stack + more!):
 - Faker API
 - (Firebase)
 
+# Post-MVP goals:
+- Build out chat feature using ChatKit API
+- Get deployed version closer to original wireframes from UXDI team
+- Implement trello-like taskboard on Homepage
+- Flesh out teams page with actual users, make profiles clickable
+
 
 ![bark1](https://user-images.githubusercontent.com/27389714/82627460-748e6c00-9bb8-11ea-8e5b-d9d5a7f6783d.png)
