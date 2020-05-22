@@ -61,7 +61,9 @@ Technologies used (MERN stack + more!):
 - POST api/users/id
 - DELETE api/users/id
 
-Authenticated routes are (2FA) password-protected an include create, update, read item/user by ID and edit + delete items/users by ID. Read all items is non-password protected and publicly visible.
+Authenticated routes are (2FA) password-protected an include create, update, read item/user by ID and edit + delete items/users by ID. Read all items is non-password protected and *technically* publicly visible (still have to pass first round of auth). Here's a quick snapshot of typical user route activity:
+
+<img width="433" alt="Screen Shot 2020-05-22 at 9 55 34 AM" src="https://user-images.githubusercontent.com/27389714/82675206-7d139080-9c12-11ea-802f-fe2a25bf66e2.png">
 
 # Post-MVP goals:
 - Build out chat feature using ChatKit API
