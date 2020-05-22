@@ -4,6 +4,13 @@
 
 BarkPark is a single page webapp that allows colleagues to hangout, collaborate and get stuff done. In a socially-distant world where working from home is the new normal, BarkPark is a tool that allows us to stay closer while six feet or more apart.
 
+This project was created for the GAxDataDog Hackathon in May 2020 by team Survivors which is comprised of the following GA alumni:
+
+- UXDI: Ajani
+- UXDI: Victoria
+- SEI: Trish
+- SEI: Corinna
+
 # Login/Signup:
 <img width="1440" alt="Screen Shot 2020-05-21 at 11 21 39 PM" src="https://user-images.githubusercontent.com/27389714/82628077-ddc2af00-9bb9-11ea-8ea5-55e628f9f0e1.png">
 
@@ -12,13 +19,6 @@ BarkPark is a single page webapp that allows colleagues to hangout, collaborate 
 
 # Tasks/Projects/Events/General Cool Stuff to do:
 <img width="1231" alt="Screen Shot 2020-05-21 at 11 23 51 PM" src="https://user-images.githubusercontent.com/27389714/82628177-29755880-9bba-11ea-80fc-69cf6ab12bdd.png">
-
-This project was created for the GAxDataDog Hackathon in May 2020 by team Survivors which is comprised of the following GA alumni:
-
-- UXDI: Ajani
-- UXDI: Victoria
-- SEI: Trish
-- SEI: Corinna
 
 Technologies used:
 
