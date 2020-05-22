@@ -3,7 +3,7 @@ import Items from './Items'
 
 const Landing = (props) => (
     <div className='container landing'>
-        <Items {...props} />
+    <Items {...props} />
     </div>
 )
 export default Landing

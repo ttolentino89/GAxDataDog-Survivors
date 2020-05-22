@@ -351,3 +351,7 @@ button {
 .back {
   color: white;
 }
+
+.info {
+  padding-left: 50px;
+}

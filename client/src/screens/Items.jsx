@@ -44,8 +44,13 @@ export default function Items(props) {
     } else {
         return (
             <div className="landing">
+              <div className="info">
                 <h2>Welcome to BarkPark!</h2>
-                <p>For added security, please sign in again</p>
+                <br />
+                <p>For added security, please sign in again.</p>
+                <p>Joining another pack? Sign up for a new account!</p>
+                <p>In the meantime, here are some examples of cool upcoming tasks and events:</p>
+                </div>
                 <div className="main">
                     {!items ? <h3>No cool things to do found at this time.</h3> : null}
                     <div className="item-container">{renderItems()}</div>

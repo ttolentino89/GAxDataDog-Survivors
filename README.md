@@ -12,7 +12,7 @@ This project was created for the GAxDataDog Hackathon in May 2020 by team Surviv
 - SEI: Corinna
 
 # Login/Signup:
-<img width="1440" alt="Screen Shot 2020-05-21 at 11 21 39 PM" src="https://user-images.githubusercontent.com/27389714/82628077-ddc2af00-9bb9-11ea-8ea5-55e628f9f0e1.png">
+<img width="1228" alt="Screen Shot 2020-05-22 at 1 04 00 AM" src="https://user-images.githubusercontent.com/27389714/82633095-4a44aa80-9bc8-11ea-9246-f4a606ed493d.png">
 
 # Homepage/Dashboard:
 <img width="1439" alt="Screen Shot 2020-05-21 at 11 20 27 PM" src="https://user-images.githubusercontent.com/27389714/82628006-b23fc480-9bb9-11ea-92ee-79546c2de28c.png">
@@ -49,8 +49,9 @@ Technologies used (MERN stack + more!):
 # Post-MVP goals:
 - Build out chat feature using ChatKit API
 - Get deployed version closer to original wireframes from UXDI team
-- Implement trello-like taskboard on Homepage
+- Implement Trello-like taskboard on Homepage
 - Flesh out teams page with actual users, make profiles clickable
-
+- Port everything to Gatsby for half the runtime of create-react-app
+- Implement Firebase for seamless authentication (current setup is a bit janky with terrible UI, but works) 
 
 ![bark1](https://user-images.githubusercontent.com/27389714/82627460-748e6c00-9bb8-11ea-8e5b-d9d5a7f6783d.png)

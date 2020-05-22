@@ -36,7 +36,7 @@ export default function Users(props) {
     if (user) {
         return (
             <Layout>
-                <h4>Pack Members:</h4>
+                <h4>See what other Pack Members have been up to:</h4>
                 {!users ? <h3>No friends at this time.</h3> : null}
                 <div className="item-container">{renderUsers()}</div>
             </Layout>
