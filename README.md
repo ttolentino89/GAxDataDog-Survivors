@@ -6,13 +6,13 @@ BarkPark is a single page webapp that allows colleagues to hangout, collaborate 
 
 Technologies used:
 
-#Front-End:
+# Front-End:
 React.js
 JavaScript
 HTML
 CSS (Flexbox)
 
-#Back-End/Database:
+# Back-End/Database:
 Node.js
 Nodemon
 Express
@@ -21,7 +21,7 @@ MongoDB
 PHP
 (TypeScript)
 
-#Plugins/Dependencies/APIs:
+# Plugins/Dependencies/APIs:
 Axios
 React-Router
 React-Reveal (for CSS animations)
