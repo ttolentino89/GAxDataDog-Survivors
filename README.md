@@ -52,12 +52,23 @@ Technologies used (MERN stack + more!):
 - Faker API
 - (Firebase)
 
+# Routes:
+- POST /api/sign-in
+- GET /api/items
+- POST /api/items/id
+- DELETE api/items/id
+- GET api/users
+- POST api/users/id
+- DELETE api/users/id
+
+Authenticated routes are (2FA) password-protected an include create, update, read item/user by ID and edit + delete items/users by ID. Read all items is non-password protected and publicly visible.
+
 # Post-MVP goals:
 - Build out chat feature using ChatKit API
 - Get deployed version closer to original wireframes from UXDI team
 - Implement Trello-like taskboard on Homepage
 - Flesh out teams page with actual users, make profiles clickable
-- Port everything to Gatsby for half the runtime of create-react-app
-- Implement Firebase for seamless authentication (current setup is a bit janky with terrible UI, but works)
+- Port everything to Gatsby for half the runtime of create-react-app + GraphQL awesomeness
+- Implement Firebase for seamless authentication (current workaround is a bit janky with terrible UI, but works)
 
 ![bark1](https://user-images.githubusercontent.com/27389714/82627460-748e6c00-9bb8-11ea-8e5b-d9d5a7f6783d.png)
