@@ -20,11 +20,11 @@ This project was created for the GAxDataDog Hackathon in May 2020 by team Surviv
 # Tasks/Projects/Events/General Cool Stuff to do:
 <img width="1231" alt="Screen Shot 2020-05-21 at 11 23 51 PM" src="https://user-images.githubusercontent.com/27389714/82628177-29755880-9bba-11ea-80fc-69cf6ab12bdd.png">
 
-Technologies used:
+Technologies used (MERN stack + more!):
 
 # Front-End:
 - React.js
-- Gatsby.js
+- (Gatsby.js)
 - JavaScript
 - HTML
 - CSS (Flexbox)
@@ -36,6 +36,7 @@ Technologies used:
 - Mongoose
 - MongoDB
 - PHP
+- (GraphQL)
 - (TypeScript)
 
 # Plugins/Dependencies/APIs:
