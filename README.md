@@ -31,6 +31,8 @@ Technologies used (MERN stack + more!):
 - JavaScript
 - HTML
 - CSS (Flexbox)
+- Bootstrap
+- A tiny bit of jQuery
 
 # Back-End/Database:
 - Node.js
@@ -39,6 +41,7 @@ Technologies used (MERN stack + more!):
 - Mongoose
 - MongoDB
 - PHP
+- AJAX
 - (GraphQL)
 - (TypeScript)
 
