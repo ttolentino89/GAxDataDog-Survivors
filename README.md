@@ -1,6 +1,6 @@
-# BarkPark
+# GAxDataDog - Survivors: BarkPark
 
-![bark1](https://user-images.githubusercontent.com/27389714/82627460-748e6c00-9bb8-11ea-8e5b-d9d5a7f6783d.png)
+<img width="957" alt="Screen Shot 2020-05-21 at 11 26 40 PM" src="https://user-images.githubusercontent.com/27389714/82628344-925cd080-9bba-11ea-9312-161e8d067b92.png">
 
 BarkPark is a single page webapp that allows colleagues to hangout, collaborate and get stuff done. In a socially-distant world where working from home is the new normal, BarkPark is a tool that allows us to stay closer while six feet or more apart.
 
@@ -44,3 +44,6 @@ Technologies used:
 - React-Reveal (for CSS animations)
 - Faker API
 - (Firebase)
+
+
+![bark1](https://user-images.githubusercontent.com/27389714/82627460-748e6c00-9bb8-11ea-8e5b-d9d5a7f6783d.png)
