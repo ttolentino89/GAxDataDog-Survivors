@@ -11,6 +11,9 @@ This project was created for the GAxDataDog Hackathon in May 2020 by team Surviv
 - SEI: Trish
 - SEI: Corinna
 
+Original wireframes are available on Figma here:
+https://www.figma.com/file/L0of93yGm6FEjcjLsxhlkg/Hackathon-GA-X-DataDog?node-id=0%3A1
+
 # Login/Signup:
 <img width="1228" alt="Screen Shot 2020-05-22 at 1 04 00 AM" src="https://user-images.githubusercontent.com/27389714/82633095-4a44aa80-9bc8-11ea-9246-f4a606ed493d.png">
 
