@@ -15,6 +15,7 @@ Technologies used:
 
 # Front-End:
 - React.js
+- Gatsby.js
 - JavaScript
 - HTML
 - CSS (Flexbox)
