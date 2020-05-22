@@ -47,7 +47,7 @@ export default function Items(props) {
               <div className="info">
                 <h2>Welcome to BarkPark!</h2>
                 <p>You're almost there!</p>
-                <p>For added security, please sign in again.</p>
+                <p>For added security, please verify your info above.</p>
                 <p>Joining another pack? Sign up for a new account!</p>
                 <p>In the meantime, here's a preview of some cool upcoming tasks and events:</p>
                 </div>

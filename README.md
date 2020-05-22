@@ -56,14 +56,22 @@ Technologies used (MERN stack + more!):
 - POST /api/sign-in
 - GET /api/items
 - POST /api/items/id
+- PUT api/items/id
 - DELETE api/items/id
 - GET api/users
 - POST api/users/id
+- PUT api/users/id
 - DELETE api/users/id
 
-Authenticated routes are (2FA) password-protected an include create, update, read item/user by ID and edit + delete items/users by ID. Read all items is non-password protected and *technically* publicly visible (still have to pass first round of auth). Here's a quick snapshot of typical user route activity:
+Authenticated routes are (2FA) password-protected and include create, update, read item/user by ID and edit + delete items/users by ID. Read all items is non-password protected and *technically* publicly visible (still have to pass first round of auth). Here's a quick snapshot of typical user route activity:
 
 <img width="433" alt="Screen Shot 2020-05-22 at 9 55 34 AM" src="https://user-images.githubusercontent.com/27389714/82675206-7d139080-9c12-11ea-802f-fe2a25bf66e2.png">
+
+# Preliminary ERD + Flowchart
+
+![image](https://user-images.githubusercontent.com/27389714/82681765-3f1b6a00-9c1c-11ea-8be6-88bfce7da34d.png)
+
+![ERD](https://user-images.githubusercontent.com/27389714/82681830-56f2ee00-9c1c-11ea-9e75-72a8a6efafd0.png)
 
 # Post-MVP goals:
 - Build out chat feature using ChatKit API

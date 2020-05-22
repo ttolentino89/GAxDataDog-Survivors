@@ -25,7 +25,7 @@ export default function Users(props) {
             return users.map(user => {
                 return (
                   <Fade>
-                    <div className="item" key={user._id}>
+                    <div className="user" key={user._id}>
                         <h4>{user.username}</h4>
                         {renderButton(user._id)}
                     </div>
